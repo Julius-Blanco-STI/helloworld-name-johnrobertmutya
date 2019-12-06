@@ -9,6 +9,7 @@ import java.util.Scanner;
  * @author Comlab
  */
 public class mainjavascanner {
+    
     public static void main(String[] args) {
      Scanner scnr = new Scanner(System.in);
      System.out.println("Hello World!");
@@ -21,8 +22,5 @@ public class mainjavascanner {
      
      String Address = "Diliman QC";
      System.out.println("What is your Address: " + Address);
-     
-     
-    }   
-     
+    }    
 }
